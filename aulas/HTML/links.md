@@ -51,6 +51,8 @@ O atributo `TARGET` define a janela do browser onde o endereço referenciado no 
 <a href="http://www.etb.com.br/" target="_blank">Visite o site da Escola Técnica de Brasília!</a>.
 </p>
 ```
+<br>
+<br>
 
 |Valores para target| Descrição|
 |---|---|
