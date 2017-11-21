@@ -1,4 +1,6 @@
-# CSS - Cascading Style Sheets
+# CSS - Cascading Style Sheets - Aula 1
+
+## Definição
 
 Folhas de estilo em cascata é um mecanismo simples para adicionar estilos (por exemplo: fontes, cores, espaçamentos) aos documentos web. 
 
