@@ -275,7 +275,7 @@ Neste caso existe uma prevalência nos métodos segundo a regra abaixo:
         <meta charset="utf-8" />    
         <title>Exemplo 4</title>
         <link href="estilo.css" rel="stylesheet" type="text/css" />
-        <!--style type="text/css">
+        <style type="text/css">
             p {
             color:#0055FF;
             font-size: 100px;
@@ -290,7 +290,7 @@ Neste caso existe uma prevalência nos métodos segundo a regra abaixo:
             color:#99CC33;
             font-size: 20px;
             }
-        </style-->
+        </style>
     </head>
     <body>
         <p> Precedência </p>
